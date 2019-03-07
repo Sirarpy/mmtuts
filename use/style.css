@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: AnjaliOldLipi;
+}
+/*.user_nav{*/
+    /*position: fixed;*/
+    /*top: 0;*/
+    /*width: 100%;*/
+/*}*/
+.reg_form, .log_form{
+    width: 60%;
+    margin: 0 auto ;
+}
+.reg_title{
+    color: #474A4A;
+    text-align: center;
+    margin-top: 10%;
+}
+.user_avatar{
+    width: 40%;
+    border-radius: 50%;
+    border: 1px solid #72C8EC;
+}
+
+#user_info{
+    color: #474A4A;
+    /*border-radius: 50px;*/
+    margin-top: 5px;
+    background-color: #d0eae8;
+    padding: 10px;
+    /*box-shadow: #474A4A;*/
+}
+
+.action{
+    /*margin-top: 10px;*/
+}
+
+.article_content{
+    /*color: #474A4A;*/
+}
+.pages{
+    margin-top: 20px;
+}
+.article_row{
+    margin-top: 10px;
+    /*border-radius: 0 40px;*/
+    /*padding: 20px;*/
+}
